@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<RootNamespace>ZenProgramming.DotNetGetVersion.Cli</RootNamespace>
+		<TargetFramework>net6.0</TargetFramework>
+		<Version>1.0.1</Version>
+		<FileVersion>1.0.1</FileVersion>
+		<AssemblyVersion>1.0.1</AssemblyVersion>
+		<PackAsTool>true</PackAsTool>
+		<ToolCommandName>dotnet-get-version</ToolCommandName>
+		<PackageOutputPath>./nupkg</PackageOutputPath>
+		<Company>ZenProgramming.it</Company>
+		<Authors>Mauro Bussini</Authors>
+		<Copyright>© 2022 - ZenProgramming.it</Copyright>
+		<Description>.NET commandline tool for extract version from .csproj files</Description>
+		<PackageProjectUrl>https://github.com/maurobussini/dotnet-get-version</PackageProjectUrl>
+		<PackageTags>azure devops, pipelines, commandline, dotnet tool</PackageTags>
+	</PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "Terminal": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "commandLineArgs": "./SC.SunToolBox.Api.csproj",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
